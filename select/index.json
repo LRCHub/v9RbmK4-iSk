@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Squall",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-01-13T09:41:27.528265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Squall",
+      "artist": "04 Limited Sazabys",
+      "has_synced": true,
+      "path": "select/01_Squall_04_Limited_Sazabys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Great Squall",
+      "artist": "ビッケブランカ",
+      "has_synced": true,
+      "path": "select/02_Great_Squall_ビッケブランカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Night Squall",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/03_The_Night_Squall_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SQUALL",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/04_SQUALL_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Passionate squall",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/05_Passionate_squall_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Squall",
+      "artist": "Pasteboard",
+      "has_synced": true,
+      "path": "select/06_Squall_Pasteboard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Courting the Squall",
+      "artist": "Guy Garvey",
+      "has_synced": true,
+      "path": "select/07_Courting_the_Squall_Guy_Garvey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "White Squall",
+      "artist": "Stan Rogers",
+      "has_synced": false,
+      "path": "select/08_White_Squall_Stan_Rogers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Squall",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/09_Last_Squall_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Squall of Souls",
+      "artist": "Equipoise",
+      "has_synced": false,
+      "path": "select/10_Squall_of_Souls_Equipoise.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Squall",
+      "artist": "松本英子",
+      "has_synced": false,
+      "path": "select/11_Squall_松本英子.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "White Squall",
+      "artist": "Hundredth",
+      "has_synced": true,
+      "path": "select/12_White_Squall_Hundredth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Squall",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Squall_04_Limited_Sazabys.txt"
+    }
+  ]
+}
